@@ -1,0 +1,29 @@
+{
+  "pins": [
+    { "gpioid": 3, "top": 43, "left": 84, "valueJustify":  0},
+    { "gpioid": 2, "top": 23, "left": 84, "valueJustify":  0},
+    { "gpioid": 1, "top": 13, "left": 16, "valueJustify": -1},
+    { "gpioid": 0, "top": 33, "left": 84, "valueJustify":  0}
+  ],
+  "settings": {
+    "pinWidth": 8,
+    "pinHeight": 5,
+    "showPinNumber": true,
+    "valueBackGroundColor": "",
+    "valueMinWidth": 15,
+    "valuePinMargin": 15,
+    "valueFontSize": 2.5
+  },
+  "stats": {
+    "top": 96,
+    "left": 16,
+    "fontSize": 2.5,
+    "gap": 5
+  },
+  "wifiFeedback": {
+    "top": 52,
+    "left": 65,
+    "width": 20,
+    "background": "dark"
+  }
+}

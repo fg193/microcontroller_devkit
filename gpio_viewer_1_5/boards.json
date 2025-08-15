@@ -20,6 +20,21 @@
         "pins": "indicators/DFROBOT_Beetle_ESP32-C6.json"
     },
     {
+        "name": "ESP-01S (Breakout Board)",
+        "image": "devboards_images/ESP-01S-Breakout.png",
+        "pins": "indicators/ESP-01S-Breakout.json"
+    },
+    {
+        "name": "ESP-01S (Front)",
+        "image": "devboards_images/ESP-01S-Front.png",
+        "pins": "indicators/ESP-01S-Front.json"
+    },
+    {
+        "name": "ESP-01S (Back)",
+        "image": "devboards_images/ESP-01S-Back.png",
+        "pins": "indicators/ESP-01S-Back.json"
+    },
+    {
         "name": "ESP32-CAM",
         "image": "devboards_images/ESP32-CAM.png",
         "pins": "indicators/ESP32-CAM.json"
