@@ -1,0 +1,43 @@
+{
+  "pins": [
+    { "gpioid":  0, "top": 20, "left": 88, "valueJustify":  0 },
+    { "gpioid":  1, "top": 24, "left": 88, "valueJustify":  0 },
+    { "gpioid":  2, "top": 24, "left": 12, "valueJustify": -1 },
+    { "gpioid":  3, "top": 28, "left": 12, "valueJustify": -1 },
+    { "gpioid":  4, "top": 60, "left": 88, "valueJustify":  0 },
+    { "gpioid":  5, "top": 56, "left": 88, "valueJustify":  0 },
+    { "gpioid":  6, "top": 36, "left": 88, "valueJustify":  0 },
+    { "gpioid":  7, "top": 40, "left": 12, "valueJustify": -1 },
+    { "gpioid":  8, "top": 64, "left": 12, "valueJustify": -1 },
+    { "gpioid":  9, "top": 68, "left": 12, "valueJustify": -1 },
+    { "gpioid": 10, "top": 32, "left": 12, "valueJustify": -1 },
+    { "gpioid": 11, "top": 44, "left": 12, "valueJustify": -1 },
+    { "gpioid": 12, "top": 28, "left": 88, "valueJustify":  0 },
+    { "gpioid": 13, "top": 52, "left": 88, "valueJustify":  0 },
+    { "gpioid": 18, "top": 32, "left": 88, "valueJustify":  0 },
+    { "gpioid": 19, "top": 36, "left": 88, "valueJustify":  0 },
+    { "gpioid": 20, "top": 44, "left": 88, "valueJustify":  0 },
+    { "gpioid": 21, "top": 48, "left": 88, "valueJustify":  0 }
+  ],
+  "settings": {
+    "pinWidth": 8,
+    "pinHeight": 3,
+    "showPinNumber": false,
+    "valueBackGroundColor": "",
+    "valueMinWidth": 15,
+    "valuePinMargin": 12,
+    "valueFontSize": 1.5
+  },
+  "stats": {
+    "top": 5,
+    "left": 8,
+    "fontSize": 1.5,
+    "gap": 3
+  },
+  "wifiFeedback": {
+    "top": 7,
+    "left": 75,
+    "width": 15,
+    "background": "dark"
+  }
+}
