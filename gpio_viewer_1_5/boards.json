@@ -165,6 +165,16 @@
         "pins": "indicators/Lolin-D32.json"
     },
     {
+        "name": "LuatOS ESP32-C3 Core (Front)",
+        "image": "devboards_images/LuatOS-ESP32-C3-Core-Front.png",
+        "pins": "indicators/LuatOS-ESP32-C3-Core-Front.json"
+    },
+    {
+        "name": "LuatOS ESP32-C3 Core (Back)",
+        "image": "devboards_images/LuatOS-ESP32-C3-Core-Back.png",
+        "pins": "indicators/LuatOS-ESP32-C3-Core-Back.json"
+    },
+    {
         "name": "Nano ESP32",
         "image": "devboards_images/Nano-ESP32.png",
         "pins": "indicators/Nano-ESP32.json"
